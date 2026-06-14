@@ -1,0 +1,2 @@
+This is old-file-2.txt for S3 bucket cleanup testing.
+It simulates another expired object for cleanup validation.

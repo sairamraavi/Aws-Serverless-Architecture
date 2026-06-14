@@ -1,0 +1,2 @@
+This is old-file-1.txt for S3 bucket cleanup testing.
+It simulates an expired object that should be cleaned up by the Lambda function.

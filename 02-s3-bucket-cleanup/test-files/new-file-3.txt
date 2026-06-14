@@ -1,0 +1,2 @@
+New file 3 content for S3 bucket cleanup testing.
+Contains metadata used by the cleanup validation scripts.

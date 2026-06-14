@@ -1,0 +1,2 @@
+This is old-file-3.txt for S3 bucket cleanup testing.
+It simulates an old object that should be removed during cleanup operations.

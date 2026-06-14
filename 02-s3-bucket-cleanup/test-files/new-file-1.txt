@@ -1,0 +1,2 @@
+New file 1 content for S3 bucket cleanup testing.
+This file is used to verify the cleanup process for recently uploaded objects.

@@ -1,0 +1,2 @@
+New file 2 content for S3 bucket cleanup testing.
+This file represents an active object that should remain after cleanup.
