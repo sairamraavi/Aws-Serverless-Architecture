@@ -246,11 +246,3 @@ screenshots/
 ├── snapshot-created.png
 └── eventbridge-trigger-added.png
 ```
-
----
-
-## Author
-
-Sairam Raavi
-
-AWS Serverless Architecture Assignment – Automated EBS Snapshot Backup and Cleanup
